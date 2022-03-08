@@ -1,0 +1,44 @@
+body {
+background-color: rgb(2, 11, 139);
+}
+h1 {
+    text-align: center; background-color: rgb(33, 34, 104);
+    text-size-adjust: 100px;color: rgb(244, 245, 247);
+    
+}
+h2 {
+    background-color: rgb(18, 16, 20);color:aliceblue;
+}
+
+h6  {
+
+    color: aliceblue;background-image: -webkit-repeating-linear-gradient;
+}
+
+button {
+    color: aliceblue;background-color: black;
+
+}
+
+h4  {
+    color: aliceblue;
+}
+
+footer {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;text-align: center;
+}
+
+a  {
+
+    color: aliceblue;
+    margin: auto;
+}
+
+footer  {
+
+background-color: black;color: aliceblue;padding: AUTO;margin: auto;
+}
